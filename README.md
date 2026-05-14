@@ -1,6 +1,6 @@
-Retail & Warehouse Sales EDA Project
+# Retail & Warehouse Sales EDA Project
 
-Project Overview:
+## Project Overview:
 
 This project focuses on Exploratory Data Analysis (EDA) of a large retail and warehouse sales dataset containing more than 300,000 records. The dataset includes supplier information, item descriptions, item categories, retail sales, warehouse sales, and retail transfer values across multiple years. The objective of this project was to understand operational sales behavior, identify business patterns, analyze supplier and category performance, and create an interactive dashboard using Excel.
 
